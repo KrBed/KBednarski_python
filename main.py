@@ -29,5 +29,5 @@ def myfunc():
 myfunc()
 
 print("Python is " + x)
-
+print("Python is " + x)
 print()
