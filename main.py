@@ -1,4 +1,5 @@
 import sys
+import random
 
 print(sys.version)
 
@@ -28,3 +29,5 @@ def myfunc():
 myfunc()
 
 print("Python is " + x)
+
+print()
