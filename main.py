@@ -1,4 +1,5 @@
 import sys
+import math
 
 print(sys.version)
 
@@ -36,6 +37,13 @@ print(type(tuple))
 zesp = 3+2j
 print(zesp)
 print(type(zesp))
+e = 7
+f = 3
+print(e // f) #dzielenie całkowite
+
+print(e ** f) #podnoszenie do potęgi
+
+print(math.pow(e, f))
 
 
 
